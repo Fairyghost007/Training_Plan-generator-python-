@@ -1,0 +1,7 @@
+id, name, set, rep
+1, hip thrusts, 3, 8-12
+2, glute bridges, 3, 12-15
+3, Bulgarian split squats, 3, 8-12
+4, cable pull-throughs, 3, 12-15
+5, Romanian deadlifts, 3, 8-12
+6, kettlebell swings, 3, 10-15

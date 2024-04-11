@@ -1,0 +1,7 @@
+id, name, set, rep
+1, bicep curls, 3, 8-12
+2, hammer curls, 3, 10-15
+3, chin-ups, 3, 8-12
+4, cable curls, 3, 10-12
+5, preacher curls, 3, 8-12
+6, incline dumbbell curls, 3, 10-15

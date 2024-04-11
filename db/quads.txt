@@ -1,0 +1,7 @@
+id, name, set, rep
+1, squats, 3, 8-12
+2, leg press, 3, 10-15
+3, lunges, 3, 10-12
+4, leg extensions, 3, 12-15
+5, hack squats, 3, 8-12
+6, front squats, 3, 8-12

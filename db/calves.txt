@@ -1,0 +1,7 @@
+id, name, set, rep
+1, standing calf raises, 3, 12-15
+2, seated calf raises, 3, 12-15
+3, donkey calf raises, 3, 10-12
+4, calf press on leg press machine, 3, 12-15
+5, single-leg calf raises, 3, 10-12
+6, box jumps, 3, 10-12

@@ -1,0 +1,7 @@
+id, name, set, rep
+1, pull-ups, 3, 8-12
+2, bent-over rows, 3, 8-12
+3, lat pulldowns, 3, 10-15
+4, single-arm dumbbell rows, 3, 8-12
+5, seated cable rows, 3, 10-12
+6, deadlifts, 3, 6-8

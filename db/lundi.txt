@@ -1,0 +1,27 @@
+1, push-ups, 3, 10-15
+2, dumbbell bench press, 3, 8-12
+3, chest dips, 3, 8-12
+1, overhead press, 3, 8-12
+2, lateral raises, 3, 10-15
+3, front raises, 3, 10-15
+1, skull crushers, 3, 8-12
+2, tricep dips, 3, 8-12
+3, tricep rope pushdowns, 3, 10-15
+1, pull-ups, 3, 8-12
+2, bent-over rows, 3, 8-12
+3, lat pulldowns, 3, 10-15
+1, bicep curls, 3, 8-12
+2, hammer curls, 3, 10-15
+3, chin-ups, 3, 8-12
+1, standing calf raises, 3, 12-15
+2, seated calf raises, 3, 12-15
+3, donkey calf raises, 3, 10-12
+1, hip thrusts, 3, 8-12
+2, glute bridges, 3, 12-15
+3, Bulgarian split squats, 3, 8-12
+1, squats, 3, 8-12
+2, leg press, 3, 10-15
+3, lunges, 3, 10-12
+1, deadlifts, 3, 5-8
+2, Romanian deadlifts, 3, 8-12
+3, lying leg curls, 3, 10-12

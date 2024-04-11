@@ -1,0 +1,7 @@
+id, name, set, rep
+1, push-ups, 3, 10-15
+2, dumbbell bench press, 3, 8-12
+3, chest dips, 3, 8-12
+4, incline bench press, 3, 8-12
+5, cable flyes, 3, 10-15
+6, chest press machine, 3, 10-12

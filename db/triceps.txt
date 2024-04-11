@@ -1,0 +1,7 @@
+id, name, set, rep
+1, skull crushers, 3, 8-12
+2, tricep dips, 3, 8-12
+3, tricep rope pushdowns, 3, 10-15
+4, overhead tricep extension, 3, 10-12
+5, close grip bench press, 3, 8-12
+6, tricep kickbacks, 3, 12-15

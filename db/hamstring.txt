@@ -1,0 +1,7 @@
+id, name, set, rep
+1, deadlifts, 3, 5-8
+2, Romanian deadlifts, 3, 8-12
+3, lying leg curls, 3, 10-12
+4, seated leg curls, 3, 10-12
+5, single-leg deadlifts, 3, 8-10
+6, good mornings, 3, 8-12
